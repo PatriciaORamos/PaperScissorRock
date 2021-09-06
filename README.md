@@ -1,0 +1,2 @@
+# PaperScissorRock
+ * The game will be between a user and a computer player. The same should allow  * the user to select their option (paper, scissor, or rock), the computer  * player should pick one at random, and the game should be decided (paper beats  * rock, rock beats scissors, scissors beat paper, and a tie). The user should  * be able to repeatedly play, and the game should track their wins and losses.  * 

@@ -1,2 +1,6 @@
-# PaperScissorRock
- * The game will be between a user and a computer player. The same should allow  * the user to select their option (paper, scissor, or rock), the computer  * player should pick one at random, and the game should be decided (paper beats  * rock, rock beats scissors, scissors beat paper, and a tie). The user should  * be able to repeatedly play, and the game should track their wins and losses.  * 
+# Jogo Pedra Papel Tesoura
+ * O jogo será entre um usuário e um jogador de computador. 
+ * O mesmo deve permitir que o usuário selecione sua opção (papel, tesoura ou pedra)
+ * O jogador do computador deve escolher uma aleatoriamente e o jogo deve ser decidido (papel bate pedra, pedra bate tesoura, tesoura bate papel, e uma gravata). 
+ * O usuário deve ser capaz de jogar repetidamente
+ * O jogo deve rastrear suas vitórias e derrotas.
